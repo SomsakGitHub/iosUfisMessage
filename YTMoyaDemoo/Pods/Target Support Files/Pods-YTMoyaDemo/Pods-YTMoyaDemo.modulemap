@@ -1,0 +1,6 @@
+framework module Pods_YTMoyaDemo {
+  umbrella header "Pods-YTMoyaDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
